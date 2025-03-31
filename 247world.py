@@ -2423,7 +2423,7 @@ STATIC_CATEGORIES = {
     "monumental sports network": "🇺🇸 美国+",
     "nbc10 philadelphia": "🇺🇸 美国+",
     "root sports northwest": "🇺🇸 美国+",
-    "space city home network": "🇺🇸 美国+"
+    "space city home network": "🇺🇸 美国+",
     "sportsnet pittsburgh": "🇺🇸 美国+",
     "tf1 france": "🇫🇷法国体育+",
     "tv3 max denmark": "🇩🇰丹麦体育+",
