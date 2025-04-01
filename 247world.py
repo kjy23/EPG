@@ -174,7 +174,6 @@ for file in [M3U8_OUTPUT_FILE, EPG_OUTPUT_FILE, DADDY_JSON_FILE, daddyLiveChanne
 # Funzioni seconda parte dello script (modificate per integrarsi)
 
 STATIC_LOGOS = {
-{
     "abc usa": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-us.png",
     "a&e usa": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png",
     "amc usa": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",
