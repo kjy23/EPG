@@ -1017,7 +1017,7 @@ STATIC_TVG_IDS = {
     "bein sports 4 turkey": "bein sports 4 turkey",
     "bein sports hd qatar": "bein sports hd qatar",
     "bein sports usa": "bein sports usa",
-    "bein sports en espa単ol": "bein sports en espa単ol",
+    "bein sports en Español": "bein sports en Español",
     "bein sports australia 1": "bein sports australia 1",
     "bein sports australia 2": "bein sports australia 2",
     "bein sports australia 3": "bein sports australia 3",
