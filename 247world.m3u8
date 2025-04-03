@@ -623,12 +623,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium486/mono.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium488/mono.m3u8
 
-#EXTINF:-1 tvg-id="canal+ sport 4 afrique" tvg-name="Canal+ Sport 4 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="🇿🇦非洲体育+", Canal+ Sport 4 Afrique
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-https://ddy6new.iosplayer.ru/ddy6/premium489/mono.m3u8
-
 #EXTINF:-1 tvg-id="canal+ sport 5 afrique" tvg-name="Canal+ Sport 5 Afrique" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/canal-plus-sport-fr.png" group-title="🇿🇦非洲体育+", Canal+ Sport 5 Afrique
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1163,6 +1157,12 @@ https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium524/mono.m3u8
 
+#EXTINF:-1 tvg-id="eurosport 2 spain" tvg-name="EuroSport 2 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-2-es.png" group-title="🇪🇸西班牙体育+", EuroSport 2 Spain
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
+
 #EXTINF:-1 tvg-id="eurosport 1 italy" tvg-name="EuroSport 1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/eurosport-1-es.png" group-title="🇮🇹意大利体育+", EuroSport 1 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1619,7 +1619,7 @@ https://zekonew.iosplayer.ru/zeko/premium352/mono.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium353/mono.m3u8
 
-#EXTINF:-1 tvg-id="italia 1 italy" tvg-name="Italia 1 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/italia1-it.png" group-title="🇮🇹意大利体育+", Italia 1 Italy
+#EXTINF:-1 tvg-id="italia 1 italy" tvg-name="Italia 1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="🇮🇹意大利体育+", Italia 1 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -1697,13 +1697,13 @@ https://windnew.iosplayer.ru/wind/premium326/mono.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium389/mono.m3u8
 
-#EXTINF:-1 tvg-id="la7 italy" tvg-name="La7 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/la7-it.png" group-title="🇮🇹意大利体育+", La7 Italy
+#EXTINF:-1 tvg-id="la7 italy" tvg-name="La7 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="🇮🇹意大利体育+", La7 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://windnew.iosplayer.ru/wind/premium855/mono.m3u8
 
-#EXTINF:-1 tvg-id="la7d hd+ italy" tvg-name="LA7d HD+ Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/la7d-it.png" group-title="🇮🇹意大利体育+", LA7d HD+ Italy
+#EXTINF:-1 tvg-id="la7d hd+ italy" tvg-name="LA7d HD+ Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="🇮🇹意大利体育+", LA7d HD+ Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -1786,18 +1786,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium527/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium528/mono.m3u8
-
-#EXTINF:-1 tvg-id="motowizja poland" tvg-name="Motowizja Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/motowizja-pl.png" group-title="🇵🇱波兰体育+", Motowizja Poland
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-https://dokko1new.iosplayer.ru/dokko1/premium563/mono.m3u8
-
-#EXTINF:-1 tvg-id="msg usa" tvg-name="MSG USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msg-us.png" group-title="🇺🇸美国体育+", MSG USA
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium765/mono.m3u8
 
 #EXTINF:-1 tvg-id="msnbc" tvg-name="MSNBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-alt-us.png" group-title="🇺🇸 美国+", MSNBC
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
@@ -2315,37 +2303,37 @@ https://ddy6new.iosplayer.ru/ddy6/premium720/mono.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium721/mono.m3u8
 
-#EXTINF:-1 tvg-id="rai 1 italy" tvg-name="Rai 1 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-1-it.png" group-title="🇮🇹意大利体育+", Rai 1 Italy
+#EXTINF:-1 tvg-id="rai 1 italy" tvg-name="Rai 1 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="🇮🇹意大利体育+", Rai 1 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium850/mono.m3u8
 
-#EXTINF:-1 tvg-id="rai 2 italy" tvg-name="Rai 2 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-2-it.png" group-title="🇮🇹意大利体育+", Rai 2 Italy
+#EXTINF:-1 tvg-id="rai 2 italy" tvg-name="Rai 2 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="🇮🇹意大利体育+", Rai 2 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium851/mono.m3u8
 
-#EXTINF:-1 tvg-id="rai 3 italy" tvg-name="Rai 3 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-3-it.png" group-title="🇮🇹意大利体育+", Rai 3 Italy
+#EXTINF:-1 tvg-id="rai 3 italy" tvg-name="Rai 3 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="🇮🇹意大利体育+", Rai 3 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://windnew.iosplayer.ru/wind/premium852/mono.m3u8
 
-#EXTINF:-1 tvg-id="rai 3 italy" tvg-name="Rai 3 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-3-it.png" group-title="🇮🇹意大利体育+", Rai 3 Italy
+#EXTINF:-1 tvg-id="rai 3 italy" tvg-name="Rai 3 Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="🇮🇹意大利体育+", Rai 3 Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://windnew.iosplayer.ru/wind/premium853/mono.m3u8
 
-#EXTINF:-1 tvg-id="rai sport italy" tvg-name="Rai Sport Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-sport-it.png" group-title="🇮🇹意大利体育+", Rai Sport Italy
+#EXTINF:-1 tvg-id="rai sport italy" tvg-name="Rai Sport Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="🇮🇹意大利体育+", Rai Sport Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="rai premium italy" tvg-name="Rai Premium Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rai-premium-it.png" group-title="🇮🇹意大利体育+", Rai Premium Italy
+#EXTINF:-1 tvg-id="rai premium italy" tvg-name="Rai Premium Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="🇮🇹意大利体育+", Rai Premium Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -2459,7 +2447,7 @@ https://ddy6new.iosplayer.ru/ddy6/premium574/mono.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky sport tennis italy" tvg-name="Sky Sport Tennis Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-tennis-it.png" group-title="🇮🇹意大利体育+", Sky Sport Tennis Italy
+#EXTINF:-1 tvg-id="sky sport tennis italy" tvg-name="Sky Sport Tennis Italy" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Tennis.png" group-title="🇮🇹意大利体育+", Sky Sport Tennis Italy
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -2800,6 +2788,12 @@ https://zekonew.iosplayer.ru/zeko/premium422/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium423/mono.m3u8
+
+#EXTINF:-1 tvg-id="supersport motorsport" tvg-name="SuperSport Motorsport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-motorsport-za.png?raw=true" group-title="🇿🇦南非体育+", SuperSport Motorsport
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium424/mono.m3u8
 
 #EXTINF:-1 tvg-id="supersport football" tvg-name="Supersport Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-football-za.png?raw=true" group-title="🇿🇦南非体育+", Supersport Football
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
@@ -3707,13 +3701,13 @@ https://windnew.iosplayer.ru/wind/premium391/mono.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium659/mono.m3u8
 
-#EXTINF:-1 tvg-id="willow cricket" tvg-name="Willow Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png" group-title="🇺🇸美国体育+", Willow Cricket
+#EXTINF:-1 tvg-id="willow cricket" tvg-name="Willow Cricket" tvg-logo="https://assets.livednow.com/logo/Willow-Cricket.png" group-title="🇺🇸美国体育+", Willow Cricket
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium346/mono.m3u8
 
-#EXTINF:-1 tvg-id="willow xtra" tvg-name="Willow XTRA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-xtra-us.png" group-title="🇺🇸美国体育+", Willow XTRA
+#EXTINF:-1 tvg-id="willow xtra" tvg-name="Willow XTRA" tvg-logo="https://assets.livednow.com/logo/Willow-Extra.png" group-title="🇺🇸美国体育+", Willow XTRA
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -3983,31 +3977,31 @@ https://windnew.iosplayer.ru/wind/premium844/mono.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium269/mono.m3u8
 
-#EXTINF:-1 tvg-id="bein sports mena 8" tvg-name="beIN Sports MENA 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="🇺🇸美国体育+", beIN Sports MENA 8
+#EXTINF:-1 tvg-id="bein sports mena 8" tvg-name="beIN Sports MENA 8" tvg-logo="https://assets.livednow.com/logo/Bein-Sports-USA.png" group-title="🇺🇸美国体育+", beIN Sports MENA 8
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium98/mono.m3u8
 
-#EXTINF:-1 tvg-id="bein sports mena 9" tvg-name="beIN Sports MENA 9" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="🇺🇸美国体育+", beIN Sports MENA 9
+#EXTINF:-1 tvg-id="bein sports mena 9" tvg-name="beIN Sports MENA 9" tvg-logo="https://assets.livednow.com/logo/Bein-Sports-USA.png" group-title="🇺🇸美国体育+", beIN Sports MENA 9
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium99/mono.m3u8
 
-#EXTINF:-1 tvg-id="bein sports xtra 1" tvg-name="beIN SPORTS XTRA 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="🇺🇸美国体育+", beIN SPORTS XTRA 1
+#EXTINF:-1 tvg-id="bein sports xtra 1" tvg-name="beIN SPORTS XTRA 1" tvg-logo="https://assets.livednow.com/logo/Bein-Sports-USA.png" group-title="🇺🇸美国体育+", beIN SPORTS XTRA 1
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium100/mono.m3u8
 
-#EXTINF:-1 tvg-id="bein sports xtra 2" tvg-name="beIN SPORTS XTRA 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="🇺🇸美国体育+", beIN SPORTS XTRA 2
+#EXTINF:-1 tvg-id="bein sports xtra 2" tvg-name="beIN SPORTS XTRA 2" tvg-logo="https://assets.livednow.com/logo/Bein-Sports-USA.png" group-title="🇺🇸美国体育+", beIN SPORTS XTRA 2
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://windnew.iosplayer.ru/wind/premium43/mono.m3u8
 
-#EXTINF:-1 tvg-id="bein sports en español" tvg-name="beIN SPORTS en Español" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="🇺🇸美国体育+", beIN SPORTS en Español
+#EXTINF:-1 tvg-id="bein sports en español" tvg-name="beIN SPORTS en Español" tvg-logo="https://assets.livednow.com/logo/Bein-Sports-USA.png" group-title="🇺🇸美国体育+", beIN SPORTS en Español
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
@@ -4115,6 +4109,12 @@ https://nfsnew.iosplayer.ru/nfs/premium907/mono.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://windnew.iosplayer.ru/wind/premium275/mono.m3u8
 
+#EXTINF:-1 tvg-id="canal+ motogp france" tvg-name="CANAL+ MotoGP France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/MotoGP_logo_%282024%29.svg/330px-MotoGP_logo_%282024%29.svg.png" group-title="🇫🇷法国体育+", CANAL+ MotoGP France
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium271/mono.m3u8
+
 #EXTINF:-1 tvg-id="canal+ formula 1" tvg-name="Canal+ Formula 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/F1_%28registered_trademark%29.svg/320px-F1_%28registered_trademark%29.svg.png" group-title="🇫🇷法国体育+", Canal+ Formula 1
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -4162,6 +4162,12 @@ https://windnew.iosplayer.ru/wind/premium913/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://windnew.iosplayer.ru/wind/premium914/mono.m3u8
+
+#EXTINF:-1 tvg-id="cytavision sports 5 cyprus" tvg-name="Cytavision Sports 5 Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Revised_Cyta_Logo%2C_adopted_22_October_2024.jpg" group-title="🇨🇾塞浦路斯体育+", Cytavision Sports 5 Cyprus
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://windnew.iosplayer.ru/wind/premium915/mono.m3u8
 
 #EXTINF:-1 tvg-id="cytavision sports 6 cyprus" tvg-name="Cytavision Sports 6 Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Revised_Cyta_Logo%2C_adopted_22_October_2024.jpg" group-title="🇨🇾塞浦路斯体育+", Cytavision Sports 6 Cyprus
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
@@ -4325,13 +4331,13 @@ https://dokko1new.iosplayer.ru/dokko1/premium920/mono.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://windnew.iosplayer.ru/wind/premium274/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky sports tennis uk" tvg-name="Sky Sports Tennis UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-tennis-uk.png" group-title="🇬🇧英格兰+", Sky Sports Tennis UK
+#EXTINF:-1 tvg-id="sky sports tennis uk" tvg-name="Sky Sports Tennis UK" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Tennis.png" group-title="🇬🇧英格兰+", Sky Sports Tennis UK
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 https://windnew.iosplayer.ru/wind/premium46/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky sports tennis de" tvg-name="Sky Sports Tennis DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-tennis-uk.png" group-title="🇩🇪德国体育+", Sky Sports Tennis DE
+#EXTINF:-1 tvg-id="sky sports tennis de" tvg-name="Sky Sports Tennis DE" tvg-logo="https://assets.livednow.com/logo/Sky-Sports-Tennis.png" group-title="🇩🇪德国体育+", Sky Sports Tennis DE
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
