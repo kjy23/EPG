@@ -2595,9 +2595,9 @@ def generate_m3u8_247(matches):  # Rinominata per evitare conflitti
 
             if stream_url_dynamic:
                 file.write(f"#EXTINF:-1 tvg-id=\"{tvg_id}\" tvg-name=\"{channel_name}\" tvg-logo=\"{tvicon_path}\" group-title=\"{category}\", {channel_name}\n")
-                file.write('#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/\n')
+                file.write('#EXTVLCOPT:http-referrer=https://daddylive.mp/\n')
                 file.write('#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1\n')
-                file.write('#EXTVLCOPT:http-origin=https://cookiewebplay.xyz\n')
+                file.write('#EXTVLCOPT:http-origin=https://daddylive.mp\n')
                 file.write(f"{stream_url_dynamic}\n\n")
                 processed_247_channels += 1
             else:
