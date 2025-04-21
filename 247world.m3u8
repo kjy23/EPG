@@ -893,6 +893,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium427/mono.m3u8
 #EXTVLCOPT:http-origin=https://daddylive.mp
 https://windnew.iosplayer.ru/wind/premium445/mono.m3u8
 
+#EXTINF:-1 tvg-id="dazn 2 spain" tvg-name="DAZN 2 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png" group-title="🇪🇸西班牙体育+", DAZN 2 Spain
+#EXTVLCOPT:http-referrer=https://daddylive.mp/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://daddylive.mp
+https://zekonew.iosplayer.ru/zeko/premium446/mono.m3u8
+
 #EXTINF:-1 tvg-id="dazn 3 spain" tvg-name="DAZN 3 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png" group-title="🇪🇸西班牙体育+", DAZN 3 Spain
 #EXTVLCOPT:http-referrer=https://daddylive.mp/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1013,6 +1019,24 @@ https://dokko1new.iosplayer.ru/dokko1/premium606/mono.m3u8
 #EXTVLCOPT:http-origin=https://daddylive.mp
 https://dokko1new.iosplayer.ru/dokko1/premium608/mono.m3u8
 
+#EXTINF:-1 tvg-id="dstv mzansi magic" tvg-name="DSTV Mzansi Magic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/dstv-bg.png" group-title="🇿🇦南非体育+", DSTV Mzansi Magic
+#EXTVLCOPT:http-referrer=https://daddylive.mp/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://daddylive.mp
+https://windnew.iosplayer.ru/wind/premium786/mono.m3u8
+
+#EXTINF:-1 tvg-id="dstv m-net" tvg-name="DSTV M-Net" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/dstv-bg.png" group-title="🇿🇦南非体育+", DSTV M-Net
+#EXTVLCOPT:http-referrer=https://daddylive.mp/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://daddylive.mp
+https://ddy6new.iosplayer.ru/ddy6/premium827/mono.m3u8
+
+#EXTINF:-1 tvg-id="dstv kyknet & kie" tvg-name="DSTV kykNET & kie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/bulgaria/dstv-bg.png" group-title="🇿🇦南非体育+", DSTV kykNET & kie
+#EXTVLCOPT:http-referrer=https://daddylive.mp/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://daddylive.mp
+https://ddy6new.iosplayer.ru/ddy6/premium828/mono.m3u8
+
 #EXTINF:-1 tvg-id="discovery life channel" tvg-name="Discovery Life Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-life-us.png" group-title="🇺🇸 美国+", Discovery Life Channel
 #EXTVLCOPT:http-referrer=https://daddylive.mp/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1042,6 +1066,12 @@ https://dokko1new.iosplayer.ru/dokko1/premium657/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://daddylive.mp
 https://zekonew.iosplayer.ru/zeko/premium314/mono.m3u8
+
+#EXTINF:-1 tvg-id="destination america" tvg-name="Destination America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/destination-america-us.png" group-title="🇺🇸 美国+", Destination America
+#EXTVLCOPT:http-referrer=https://daddylive.mp/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://daddylive.mp
+https://dokko1new.iosplayer.ru/dokko1/premium651/mono.m3u8
 
 #EXTINF:-1 tvg-id="disney jr" tvg-name="Disney JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png" group-title="🇺🇸 美国+", Disney JR
 #EXTVLCOPT:http-referrer=https://daddylive.mp/
@@ -3221,6 +3251,12 @@ https://zekonew.iosplayer.ru/zeko/premium147/mono.m3u8
 #EXTVLCOPT:http-origin=https://daddylive.mp
 https://ddy6new.iosplayer.ru/ddy6/premium148/mono.m3u8
 
+#EXTINF:-1 tvg-id="science channel" tvg-name="Science Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/discovery-science-us.png" group-title="🇺🇸 美国+", Science Channel
+#EXTVLCOPT:http-referrer=https://daddylive.mp/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://daddylive.mp
+https://zekonew.iosplayer.ru/zeko/premium294/mono.m3u8
+
 #EXTINF:-1 tvg-id="showtime usa" tvg-name="Showtime USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="🇺🇸 美国+", Showtime USA
 #EXTVLCOPT:http-referrer=https://daddylive.mp/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -3406,6 +3442,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium724/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://daddylive.mp
 https://dokko1new.iosplayer.ru/dokko1/premium529/mono.m3u8
+
+#EXTINF:-1 tvg-id="tyc sports argentina" tvg-name="TYC Sports Argentina" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png" group-title="🇦🇷阿根廷体育+", TYC Sports Argentina
+#EXTVLCOPT:http-referrer=https://daddylive.mp/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://daddylive.mp
+https://ddy6new.iosplayer.ru/ddy6/premium746/mono.m3u8
 
 #EXTINF:-1 tvg-id="tvp sport poland" tvg-name="TVP Sport Poland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-sport-pl.png" group-title="🇵🇱波兰体育+", TVP Sport Poland
 #EXTVLCOPT:http-referrer=https://daddylive.mp/
@@ -3917,6 +3959,12 @@ https://zekonew.iosplayer.ru/zeko/premium509/mono.m3u8
 #EXTVLCOPT:http-origin=https://daddylive.mp
 https://zekonew.iosplayer.ru/zeko/premium510/mono.m3u8
 
+#EXTINF:-1 tvg-id="18+ (player-11)" tvg-name="18+ (Player-11)" tvg-logo="https://i.imgur.com/aGkzK3D.png" group-title="XXX Adults", 18+ (Player-11)
+#EXTVLCOPT:http-referrer=https://daddylive.mp/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://daddylive.mp
+https://ddy6new.iosplayer.ru/ddy6/premium511/mono.m3u8
+
 #EXTINF:-1 tvg-id="18+ (player-12)" tvg-name="18+ (Player-12)" tvg-logo="https://i.imgur.com/aGkzK3D.png" group-title="XXX Adults", 18+ (Player-12)
 #EXTVLCOPT:http-referrer=https://daddylive.mp/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -3934,6 +3982,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium513/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://daddylive.mp
 https://ddy6new.iosplayer.ru/ddy6/premium514/mono.m3u8
+
+#EXTINF:-1 tvg-id="18+ (player-15)" tvg-name="18+ (Player-15)" tvg-logo="https://i.imgur.com/aGkzK3D.png" group-title="XXX Adults", 18+ (Player-15)
+#EXTVLCOPT:http-referrer=https://daddylive.mp/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://daddylive.mp
+https://ddy6new.iosplayer.ru/ddy6/premium515/mono.m3u8
 
 #EXTINF:-1 tvg-id="18+ (player-16)" tvg-name="18+ (Player-16)" tvg-logo="https://i.imgur.com/aGkzK3D.png" group-title="XXX Adults", 18+ (Player-16)
 #EXTVLCOPT:http-referrer=https://daddylive.mp/
@@ -3976,6 +4030,12 @@ https://nfsnew.iosplayer.ru/nfs/premium923/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://daddylive.mp
 https://windnew.iosplayer.ru/wind/premium844/mono.m3u8
+
+#EXTINF:-1 tvg-id="a sport pk" tvg-name="A Sport PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="🇵🇰巴基斯坦体育+", A Sport PK
+#EXTVLCOPT:http-referrer=https://daddylive.mp/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://daddylive.mp
+https://ddy6new.iosplayer.ru/ddy6/premium269/mono.m3u8
 
 #EXTINF:-1 tvg-id="bein sports mena 8" tvg-name="beIN Sports MENA 8" tvg-logo="https://assets.livednow.com/logo/Bein-Sports-USA.png" group-title="🇺🇸美国体育+", beIN Sports MENA 8
 #EXTVLCOPT:http-referrer=https://daddylive.mp/
@@ -4306,6 +4366,12 @@ https://wikinew.iosplayer.ru/wiki/premium843/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://daddylive.mp
 https://ddy6new.iosplayer.ru/ddy6/premium287/mono.m3u8
+
+#EXTINF:-1 tvg-id="pbs usa usa" tvg-name="PBS USA USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png" group-title="🇺🇸 美国+", PBS USA USA
+#EXTVLCOPT:http-referrer=https://daddylive.mp/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://daddylive.mp
+https://ddy6new.iosplayer.ru/ddy6/premium210/mono.m3u8
 
 #EXTINF:-1 tvg-id="pdc tv" tvg-name="PDC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Professional_Darts_Corporation_logo.png/250px-Professional_Darts_Corporation_logo.png" group-title="Undefined", PDC TV
 #EXTVLCOPT:http-referrer=https://daddylive.mp/
