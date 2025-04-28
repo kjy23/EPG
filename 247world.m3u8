@@ -1013,6 +1013,12 @@ https://dokko1new.newkso.ru/dokko1/premium605/mono.m3u8
 #EXTVLCOPT:http-origin=https://daddylive.mp
 https://dokko1new.newkso.ru/dokko1/premium606/mono.m3u8
 
+#EXTINF:-1 tvg-id="dubai racing 1 uae" tvg-name="Dubai Racing 1 UAE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/dubai-racing-tv-ae.png" group-title="🇦🇪阿联酋体育+", Dubai Racing 1 UAE
+#EXTVLCOPT:http-referrer=https://daddylive.mp/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://daddylive.mp
+https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8
+
 #EXTINF:-1 tvg-id="dubai racing 2 uae" tvg-name="Dubai Racing 2 UAE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/dubai-racing-tv-ae.png" group-title="🇦🇪阿联酋体育+", Dubai Racing 2 UAE
 #EXTVLCOPT:http-referrer=https://daddylive.mp/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -4384,6 +4390,12 @@ https://ddy6new.newkso.ru/ddy6/premium210/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://daddylive.mp
 https://windnew.newkso.ru/wind/premium43/mono.m3u8
+
+#EXTINF:-1 tvg-id="rally tv" tvg-name="Rally Tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/really-uk.png" group-title="Undefined", Rally Tv
+#EXTVLCOPT:http-referrer=https://daddylive.mp/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://daddylive.mp
+https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8
 
 #EXTINF:-1 tvg-id="rtl de" tvg-name="RTL DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/rtl-de.png" group-title="🇩🇪德国体育+", RTL DE
 #EXTVLCOPT:http-referrer=https://daddylive.mp/
