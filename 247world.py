@@ -948,7 +948,6 @@ STATIC_LOGOS = {
     "v sport motor sweden": "https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/sweden/v-sport-motor-se.png?raw=true",
     "ytv ca": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ytv-ca.png?raw=true"
 }
-}
 
 STATIC_TVG_IDS = {
     "abc usa": "abc usa",
