@@ -813,7 +813,7 @@ STATIC_LOGOS = {
     "v film family": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/v-film-family-dk.png",
     "vh1 usa": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",
     "veronica nl netherland": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/veronica-nl.png",
-    "vtv+ uruguay": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/vtv-id.png",
+    "vtv+ uruguay": "https://es.wikipedia.org/wiki/VTV_(Uruguay)#/media/Archivo:Logo_VTV_nuevo.png",
     "vice tv": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png",
     "willow cricket": "https://assets.livednow.com/logo/Willow-Cricket.png",
     "willow xtra": "https://assets.livednow.com/logo/Willow-Extra.png",
