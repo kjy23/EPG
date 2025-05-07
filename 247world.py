@@ -2101,7 +2101,7 @@ STATIC_CATEGORIES = {
     "newsmax usa": "🇺🇸 美国+",
     "nat geo wild usa": "🇺🇸 美国+",
     "noovo ca": "🇨🇦加拿大+",
-    "new! cwpix 11": "Other",
+    "new! cwpix 11": "🇺🇸 美国+",
     "ontime sports": "🇺🇸美国体育+",
     "ontime sports 2": "🇺🇸美国体育+",
     "one 1 hd israel": "🇮🇱以色列体育+",
