@@ -197,7 +197,7 @@ https://dokko1new.newkso.ru/dokko1/premium531/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium664/mono.m3u8
 
-#EXTINF:-1 tvg-id="adult swim" tvg-name="Adult Swim" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png" group-title="🇺🇸 美国+", Adult Swim
+#EXTINF:-1 tvg-id="adult swim" tvg-name="Adult Swim" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="🇺🇸 美国+", Adult Swim
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -809,7 +809,7 @@ https://windnew.newkso.ru/wind/premium750/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
 
-#EXTINF:-1 tvg-id="citytv" tvg-name="Citytv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/city-tv-ca.png" group-title="🇨🇦加拿大+", Citytv
+#EXTINF:-1 tvg-id="citytv" tvg-name="Citytv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/city-tv-ca.png?raw=true" group-title="🇨🇦加拿大+", Citytv
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1084,6 +1084,12 @@ https://windnew.newkso.ru/wind/premium456/mono.m3u8
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium457/mono.m3u8
+
+#EXTINF:-1 tvg-id="eleven sports 4 portugal" tvg-name="Eleven Sports 4 Portugal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/eleven-sports-4-pt.png" group-title="🇵🇹葡萄牙体育+", Eleven Sports 4 Portugal
+#EXTVLCOPT:http-origin=https://kisskissplay.cfd
+#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium458/mono.m3u8
 
 #EXTINF:-1 tvg-id="eleven sports 5 portugal" tvg-name="Eleven Sports 5 Portugal" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/eleven-sports-5-pt.png" group-title="🇵🇹葡萄牙体育+", Eleven Sports 5 Portugal
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
@@ -1409,7 +1415,7 @@ https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium319/mono.m3u8
 
-#EXTINF:-1 tvg-id="gol mundial 1" tvg-name="Gol Mundial 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/news-nation-us.png" group-title="Other", Gol Mundial 1
+#EXTINF:-1 tvg-id="gol mundial 1" tvg-name="Gol Mundial 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/news-nation-us.png" group-title="🇺🇸 美国+", Gol Mundial 1
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2069,7 +2075,7 @@ https://zekonew.newkso.ru/zeko/premium745/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium835/mono.m3u8
 
-#EXTINF:-1 tvg-id="new! cwpix 11" tvg-name="New! CWPIX 11" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cw/cw-11-wpix-us.png" group-title="Other", New! CWPIX 11
+#EXTINF:-1 tvg-id="new! cwpix 11" tvg-name="New! CWPIX 11" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cw/cw-11-wpix-us.png" group-title="🇺🇸 美国+", New! CWPIX 11
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2165,7 +2171,7 @@ https://ddy6new.newkso.ru/ddy6/premium718/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium730/mono.m3u8
 
-#EXTINF:-1 tvg-id="ptv sports" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/3gcbW9w.png" group-title="Other", PTV Sports
+#EXTINF:-1 tvg-id="ptv sports" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/3gcbW9w.png" group-title="🇵🇰巴基斯坦体育+", PTV Sports
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2273,19 +2279,19 @@ https://windnew.newkso.ru/wind/premium858/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium523/mono.m3u8
 
-#EXTINF:-1 tvg-id="rds ca" tvg-name="RDS CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-ca.png" group-title="🇨🇦加拿大+", RDS CA
+#EXTINF:-1 tvg-id="rds ca" tvg-name="RDS CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-ca.png?raw=true" group-title="🇨🇦加拿大+", RDS CA
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8
 
-#EXTINF:-1 tvg-id="rds 2 ca" tvg-name="RDS 2 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-2-ca.png" group-title="🇨🇦加拿大+", RDS 2 CA
+#EXTINF:-1 tvg-id="rds 2 ca" tvg-name="RDS 2 CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-2-ca.png?raw=true" group-title="🇨🇦加拿大+", RDS 2 CA
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium840/mono.m3u8
 
-#EXTINF:-1 tvg-id="rds info ca" tvg-name="RDS Info CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-info-ca.png" group-title="🇨🇦加拿大+", RDS Info CA
+#EXTINF:-1 tvg-id="rds info ca" tvg-name="RDS Info CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/rds-info-ca.png?raw=true" group-title="🇨🇦加拿大+", RDS Info CA
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2303,7 +2309,7 @@ https://windnew.newkso.ru/wind/premium471/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium390/mono.m3u8
 
-#EXTINF:-1 tvg-id="racing tv uk" tvg-name="Racing Tv UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/racing-tv-uk.png" group-title="🇬🇧英格兰+", Racing Tv UK
+#EXTINF:-1 tvg-id="racing tv uk" tvg-name="Racing Tv UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/racing-tv-uk.png?raw=true" group-title="🇬🇧英格兰+", Racing Tv UK
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2363,13 +2369,13 @@ https://dokko1new.newkso.ru/dokko1/premium65/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium70/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky sports golf italy" tvg-name="Sky Sports Golf Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-golf-it.png" group-title="🇮🇹意大利体育+", Sky Sports Golf Italy
+#EXTINF:-1 tvg-id="sky sports golf italy" tvg-name="Sky Sports Golf Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-golf-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Sports Golf Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium574/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky sport motogp italy" tvg-name="Sky Sport MotoGP Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-motogp-it.png" group-title="🇮🇹意大利体育+", Sky Sport MotoGP Italy
+#EXTINF:-1 tvg-id="sky sport motogp italy" tvg-name="Sky Sport MotoGP Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-motogp-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Sport MotoGP Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2381,7 +2387,7 @@ https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium576/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky sport f1 italy" tvg-name="Sky Sport F1 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-f1-it.png" group-title="🇮🇹意大利体育+", Sky Sport F1 Italy
+#EXTINF:-1 tvg-id="sky sport f1 italy" tvg-name="Sky Sport F1 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-f1-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Sport F1 Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2429,19 +2435,19 @@ https://ddy6new.newkso.ru/ddy6/premium559/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium759/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky sport football italy" tvg-name="Sky Sport Football Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-football-it.png" group-title="🇮🇹意大利体育+", Sky Sport Football Italy
+#EXTINF:-1 tvg-id="sky sport football italy" tvg-name="Sky Sport Football Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-football-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Sport Football Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium460/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky sport uno italy" tvg-name="Sky Sport UNO Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-uno-it.png" group-title="🇮🇹意大利体育+", Sky Sport UNO Italy
+#EXTINF:-1 tvg-id="sky sport uno italy" tvg-name="Sky Sport UNO Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-uno-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Sport UNO Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky sport arena italy" tvg-name="Sky Sport Arena Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-arena-it.png" group-title="🇮🇹意大利体育+", Sky Sport Arena Italy
+#EXTINF:-1 tvg-id="sky sport arena italy" tvg-name="Sky Sport Arena Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-arena-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Sport Arena Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2453,7 +2459,7 @@ https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium554/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky uno italy" tvg-name="Sky UNO Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-uno-it.png" group-title="🇮🇹意大利体育+", Sky UNO Italy
+#EXTINF:-1 tvg-id="sky uno italy" tvg-name="Sky UNO Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-uno-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky UNO Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2657,7 +2663,7 @@ https://windnew.newkso.ru/wind/premium410/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium412/mono.m3u8
 
-#EXTINF:-1 tvg-id="supersport psl" tvg-name="SuperSport PSL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-psl-za.png" group-title="🇿🇦南非体育+", SuperSport PSL
+#EXTINF:-1 tvg-id="supersport psl" tvg-name="SuperSport PSL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-psl-za.png?raw=true" group-title="🇿🇦南非体育+", SuperSport PSL
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2693,7 +2699,7 @@ https://windnew.newkso.ru/wind/premium420/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium421/mono.m3u8
 
-#EXTINF:-1 tvg-id="supersport tennis" tvg-name="SuperSport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-tennis-za.png" group-title="🇿🇦南非体育+", SuperSport Tennis
+#EXTINF:-1 tvg-id="supersport tennis" tvg-name="SuperSport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-tennis-za.png?raw=true" group-title="🇿🇦南非体育+", SuperSport Tennis
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -2831,115 +2837,115 @@ https://windnew.newkso.ru/wind/premium680/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium681/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky cinema collection italy" tvg-name="Sky Cinema Collection Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-collection-it.png" group-title="🇮🇹意大利体育+", Sky Cinema Collection Italy
+#EXTINF:-1 tvg-id="sky cinema collection italy" tvg-name="Sky Cinema Collection Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-collection-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Cinema Collection Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium859/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky cinema uno italy" tvg-name="Sky Cinema Uno Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-uno-it.png" group-title="🇮🇹意大利体育+", Sky Cinema Uno Italy
+#EXTINF:-1 tvg-id="sky cinema uno italy" tvg-name="Sky Cinema Uno Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-uno-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Cinema Uno Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium860/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky cinema action italy" tvg-name="Sky Cinema Action Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-action-it.png" group-title="🇮🇹意大利体育+", Sky Cinema Action Italy
+#EXTINF:-1 tvg-id="sky cinema action italy" tvg-name="Sky Cinema Action Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-action-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Cinema Action Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium861/mono.m3u8
 
-#EXTINF:-1 tvg-id="8sky cinema comedy italy" tvg-name="8Sky Cinema Comedy Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-comedy-it.png" group-title="🇮🇹意大利体育+", 8Sky Cinema Comedy Italy
+#EXTINF:-1 tvg-id="8sky cinema comedy italy" tvg-name="8Sky Cinema Comedy Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-comedy-it.png?raw=true" group-title="🇮🇹意大利体育+", 8Sky Cinema Comedy Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium862/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky cinema uno +24 italy" tvg-name="Sky Cinema Uno +24 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-uno-it.png" group-title="🇮🇹意大利体育+", Sky Cinema Uno +24 Italy
+#EXTINF:-1 tvg-id="sky cinema uno +24 italy" tvg-name="Sky Cinema Uno +24 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-uno-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Cinema Uno +24 Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium863/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky cinema romance italy" tvg-name="Sky Cinema Romance Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-romance-it.png" group-title="🇮🇹意大利体育+", Sky Cinema Romance Italy
+#EXTINF:-1 tvg-id="sky cinema romance italy" tvg-name="Sky Cinema Romance Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-romance-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Cinema Romance Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium864/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky cinema family italy" tvg-name="Sky Cinema Family Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-family-it.png" group-title="🇮🇹意大利体育+", Sky Cinema Family Italy
+#EXTINF:-1 tvg-id="sky cinema family italy" tvg-name="Sky Cinema Family Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-family-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Cinema Family Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium865/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky cinema due +24 italy" tvg-name="Sky Cinema Due +24 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-due-it.png" group-title="🇮🇹意大利体育+", Sky Cinema Due +24 Italy
+#EXTINF:-1 tvg-id="sky cinema due +24 italy" tvg-name="Sky Cinema Due +24 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-due-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Cinema Due +24 Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium866/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky cinema drama italy" tvg-name="Sky Cinema Drama Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-drama-it.png" group-title="🇮🇹意大利体育+", Sky Cinema Drama Italy
+#EXTINF:-1 tvg-id="sky cinema drama italy" tvg-name="Sky Cinema Drama Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-drama-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Cinema Drama Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium867/mono.m3u8
 
-#EXTINF:-1 tvg-id="8sky cinema suspense italy" tvg-name="8Sky Cinema Suspense Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-suspense-it.png" group-title="🇮🇹意大利体育+", 8Sky Cinema Suspense Italy
+#EXTINF:-1 tvg-id="8sky cinema suspense italy" tvg-name="8Sky Cinema Suspense Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-cinema-suspense-it.png?raw=true" group-title="🇮🇹意大利体育+", 8Sky Cinema Suspense Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky sport 24 italy" tvg-name="Sky Sport 24 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-24-it.png" group-title="🇮🇹意大利体育+", Sky Sport 24 Italy
+#EXTINF:-1 tvg-id="sky sport 24 italy" tvg-name="Sky Sport 24 Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-24-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Sport 24 Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium869/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky sport calcio italy" tvg-name="Sky Sport Calcio Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-calcio-it.png" group-title="🇮🇹意大利体育+", Sky Sport Calcio Italy
+#EXTINF:-1 tvg-id="sky sport calcio italy" tvg-name="Sky Sport Calcio Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-calcio-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Sport Calcio Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky calcio 1 (251) italy" tvg-name="Sky Calcio 1 (251) Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-calcio-it.png" group-title="🇮🇹意大利体育+", Sky Calcio 1 (251) Italy
+#EXTINF:-1 tvg-id="sky calcio 1 (251) italy" tvg-name="Sky Calcio 1 (251) Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-calcio-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Calcio 1 (251) Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium871/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky calcio 2 (252) italy" tvg-name="Sky Calcio 2 (252) Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-calcio-it.png" group-title="🇮🇹意大利体育+", Sky Calcio 2 (252) Italy
+#EXTINF:-1 tvg-id="sky calcio 2 (252) italy" tvg-name="Sky Calcio 2 (252) Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-calcio-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Calcio 2 (252) Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium872/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky calcio 3 (253) italy" tvg-name="Sky Calcio 3 (253) Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-calcio-it.png" group-title="🇮🇹意大利体育+", Sky Calcio 3 (253) Italy
+#EXTINF:-1 tvg-id="sky calcio 3 (253) italy" tvg-name="Sky Calcio 3 (253) Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-calcio-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Calcio 3 (253) Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium873/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky calcio 4 (254) italy" tvg-name="Sky Calcio 4 (254) Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-calcio-it.png" group-title="🇮🇹意大利体育+", Sky Calcio 4 (254) Italy
+#EXTINF:-1 tvg-id="sky calcio 4 (254) italy" tvg-name="Sky Calcio 4 (254) Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-calcio-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Calcio 4 (254) Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium874/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky calcio 6 (256) italy" tvg-name="Sky Calcio 6 (256) Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-calcio-it.png" group-title="🇮🇹意大利体育+", Sky Calcio 6 (256) Italy
+#EXTINF:-1 tvg-id="sky calcio 6 (256) italy" tvg-name="Sky Calcio 6 (256) Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-calcio-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Calcio 6 (256) Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium876/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky calcio 7 (257) italy" tvg-name="Sky Calcio 7 (257) Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-calcio-it.png" group-title="🇮🇹意大利体育+", Sky Calcio 7 (257) Italy
+#EXTINF:-1 tvg-id="sky calcio 7 (257) italy" tvg-name="Sky Calcio 7 (257) Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-sport-calcio-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Calcio 7 (257) Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky serie italy" tvg-name="Sky Serie Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-serie-it.png" group-title="🇮🇹意大利体育+", Sky Serie Italy
+#EXTINF:-1 tvg-id="sky serie italy" tvg-name="Sky Serie Italy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/sky-serie-it.png?raw=true" group-title="🇮🇹意大利体育+", Sky Serie Italy
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -3365,7 +3371,7 @@ https://zekonew.newkso.ru/zeko/premium384/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium394/mono.m3u8
 
-#EXTINF:-1 tvg-id="tvp info" tvg-name="TVP INFO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-info-pl.png" group-title="Other", TVP INFO
+#EXTINF:-1 tvg-id="tvp info" tvg-name="TVP INFO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-info-pl.png" group-title="🇵🇱波兰体育+", TVP INFO
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -3545,7 +3551,7 @@ https://zekonew.newkso.ru/zeko/premium344/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium378/mono.m3u8
 
-#EXTINF:-1 tvg-id="vtv+ uruguay" tvg-name="VTV+ Uruguay" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/vtv-id.png" group-title="Other", VTV+ Uruguay
+#EXTINF:-1 tvg-id="vtv+ uruguay" tvg-name="VTV+ Uruguay" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/vtv-id.png" group-title="🇺🇾乌拉圭体育+", VTV+ Uruguay
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -3617,7 +3623,7 @@ https://zekonew.newkso.ru/zeko/premium544/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium545/mono.m3u8
 
-#EXTINF:-1 tvg-id="yas tv uae" tvg-name="Yas TV UAE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-arab-emirates/yas-tv-ae.png" group-title="🇦🇪阿联酋体育+", Yas TV UAE
+#EXTINF:-1 tvg-id="yas tv uae" tvg-name="Yas TV UAE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-arab-emirates/yas-tv-ae.png?raw=true" group-title="🇦🇪阿联酋体育+", Yas TV UAE
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -3815,7 +3821,7 @@ https://ddy6new.newkso.ru/ddy6/premium519/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium520/mono.m3u8
 
-#EXTINF:-1 tvg-id="altitude sports" tvg-name="Altitude Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png" group-title="🇨🇦加拿大+", Altitude Sports
+#EXTINF:-1 tvg-id="altitude sports" tvg-name="Altitude Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" group-title="🇨🇦加拿大+", Altitude Sports
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -3971,13 +3977,13 @@ https://windnew.newkso.ru/wind/premium917/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium281/mono.m3u8
 
-#EXTINF:-1 tvg-id="dazn 1 uk" tvg-name="DAZN 1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/dazn1-uk.png" group-title="Undefined", DAZN 1 UK
+#EXTINF:-1 tvg-id="dazn 1 uk" tvg-name="DAZN 1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/dazn1-uk.png?raw=true" group-title="Undefined", DAZN 1 UK
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium230/mono.m3u8
 
-#EXTINF:-1 tvg-id="discovery velocity ca" tvg-name="Discovery Velocity CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/discovery-velocity-ca.png" group-title="🇨🇦加拿大+", Discovery Velocity CA
+#EXTINF:-1 tvg-id="discovery velocity ca" tvg-name="Discovery Velocity CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/discovery-velocity-ca.png?raw=true" group-title="🇨🇦加拿大+", Discovery Velocity CA
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -4031,7 +4037,7 @@ https://nfsnew.newkso.ru/nfs/premium743/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium276/mono.m3u8
 
-#EXTINF:-1 tvg-id="laliga tv hypermotion" tvg-name="LALIGA TV Hypermotion" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/laliga-tv-hypermotion-es.png" group-title="Undefined", LALIGA TV Hypermotion
+#EXTINF:-1 tvg-id="laliga tv hypermotion" tvg-name="LALIGA TV Hypermotion" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/laliga-tv-hypermotion-es.png?raw=true" group-title="🇪🇸西班牙体育+", LALIGA TV Hypermotion
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -4049,7 +4055,7 @@ https://zekonew.newkso.ru/zeko/premium278/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium924/mono.m3u8
 
-#EXTINF:-1 tvg-id="m6 france" tvg-name="M6 France" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-fr.png" group-title="🇫🇷法国体育+", M6 France
+#EXTINF:-1 tvg-id="m6 france" tvg-name="M6 France" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-fr.png?raw=true" group-title="🇫🇷法国体育+", M6 France
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -4097,19 +4103,19 @@ https://wikinew.newkso.ru/wiki/premium843/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium287/mono.m3u8
 
-#EXTINF:-1 tvg-id="pdc tv" tvg-name="PDC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Professional_Darts_Corporation_logo.png/250px-Professional_Darts_Corporation_logo.png" group-title="Undefined", PDC TV
+#EXTINF:-1 tvg-id="pdc tv" tvg-name="PDC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Professional_Darts_Corporation_logo.png/250px-Professional_Darts_Corporation_logo.png" group-title="🇺🇸美国体育+", PDC TV
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium43/mono.m3u8
 
-#EXTINF:-1 tvg-id="rally tv" tvg-name="Rally Tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/really-uk.png" group-title="Undefined", Rally Tv
+#EXTINF:-1 tvg-id="rally tv" tvg-name="Rally Tv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/really-uk.png?raw=true" group-title="🇬🇧英格兰+", Rally Tv
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8
 
-#EXTINF:-1 tvg-id="rtl de" tvg-name="RTL DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/rtl-de.png" group-title="🇩🇪德国体育+", RTL DE
+#EXTINF:-1 tvg-id="rtl de" tvg-name="RTL DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/rtl-de.png?raw=true" group-title="🇩🇪德国体育+", RTL DE
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -4145,103 +4151,103 @@ https://windnew.newkso.ru/wind/premium884/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium883/mono.m3u8
 
-#EXTINF:-1 tvg-id="see denmark" tvg-name="SEE Denmark" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/denmark/see-dk.png" group-title="🇩🇰丹麦体育+", SEE Denmark
+#EXTINF:-1 tvg-id="see denmark" tvg-name="SEE Denmark" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/denmark/see-dk.png?raw=true" group-title="🇩🇰丹麦体育+", SEE Denmark
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium811/mono.m3u8
 
-#EXTINF:-1 tvg-id="star sports 1 in" tvg-name="Star Sports 1 IN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-in.png" group-title="🇮🇳印度体育+", Star Sports 1 IN
+#EXTINF:-1 tvg-id="star sports 1 in" tvg-name="Star Sports 1 IN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-in.png?raw=true" group-title="🇮🇳印度体育+", Star Sports 1 IN
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium267/mono.m3u8
 
-#EXTINF:-1 tvg-id="star sports hindi in" tvg-name="Star Sports Hindi IN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-hindi-in.png" group-title="🇮🇳印度体育+", Star Sports Hindi IN
+#EXTINF:-1 tvg-id="star sports hindi in" tvg-name="Star Sports Hindi IN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-hindi-in.png?raw=true" group-title="🇮🇳印度体育+", Star Sports Hindi IN
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium268/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky cinema comedy uk" tvg-name="Sky Cinema Comedy UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-cinema-comedy-hd-uk.png" group-title="🇬🇧英格兰+", Sky Cinema Comedy UK
+#EXTINF:-1 tvg-id="sky cinema comedy uk" tvg-name="Sky Cinema Comedy UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-cinema-comedy-hd-uk.png?raw=true" group-title="🇬🇧英格兰+", Sky Cinema Comedy UK
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium678/mono.m3u8
 
-#EXTINF:-1 tvg-id="sky cinema drama uk" tvg-name="Sky Cinema Drama UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png" group-title="🇬🇧英格兰+", Sky Cinema Drama UK
+#EXTINF:-1 tvg-id="sky cinema drama uk" tvg-name="Sky Cinema Drama UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png?raw=true" group-title="🇬🇧英格兰+", Sky Cinema Drama UK
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium680/mono.m3u8
 
-#EXTINF:-1 tvg-id="showtime 2 usa (sho2) usa" tvg-name="Showtime 2 USA (SHO2) USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png" group-title="🇺🇸 美国+", Showtime 2 USA (SHO2) USA
+#EXTINF:-1 tvg-id="showtime 2 usa (sho2) usa" tvg-name="Showtime 2 USA (SHO2) USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="🇺🇸 美国+", Showtime 2 USA (SHO2) USA
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium792/mono.m3u8
 
-#EXTINF:-1 tvg-id="showtime showcase usa" tvg-name="Showtime Showcase USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png" group-title="🇺🇸 美国+", Showtime Showcase USA
+#EXTINF:-1 tvg-id="showtime showcase usa" tvg-name="Showtime Showcase USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" group-title="🇺🇸 美国+", Showtime Showcase USA
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium793/mono.m3u8
 
-#EXTINF:-1 tvg-id="showtime extreme usa" tvg-name="Showtime Extreme USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png" group-title="🇺🇸 美国+", Showtime Extreme USA
+#EXTINF:-1 tvg-id="showtime extreme usa" tvg-name="Showtime Extreme USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="🇺🇸 美国+", Showtime Extreme USA
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium794/mono.m3u8
 
-#EXTINF:-1 tvg-id="showtime family zone (sho family zone) usa" tvg-name="Showtime Family Zone (SHO Family Zone) USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png" group-title="🇺🇸 美国+", Showtime Family Zone (SHO Family Zone) USA
+#EXTINF:-1 tvg-id="showtime family zone (sho family zone) usa" tvg-name="Showtime Family Zone (SHO Family Zone) USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png?raw=true" group-title="🇺🇸 美国+", Showtime Family Zone (SHO Family Zone) USA
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium795/mono.m3u8
 
-#EXTINF:-1 tvg-id="showtime next (sho next) usa" tvg-name="Showtime Next (SHO Next) USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png" group-title="🇺🇸 美国+", Showtime Next (SHO Next) USA
+#EXTINF:-1 tvg-id="showtime next (sho next) usa" tvg-name="Showtime Next (SHO Next) USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="🇺🇸 美国+", Showtime Next (SHO Next) USA
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium796/mono.m3u8
 
-#EXTINF:-1 tvg-id="showtime women usa" tvg-name="Showtime Women USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png" group-title="🇺🇸 美国+", Showtime Women USA
+#EXTINF:-1 tvg-id="showtime women usa" tvg-name="Showtime Women USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="🇺🇸 美国+", Showtime Women USA
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium797/mono.m3u8
 
-#EXTINF:-1 tvg-id="space city home network" tvg-name="Space City Home Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/space-city-home-network-us.png" group-title="🇺🇸 美国+", Space City Home Network
+#EXTINF:-1 tvg-id="space city home network" tvg-name="Space City Home Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/space-city-home-network-us.png?raw=true" group-title="🇺🇸 美国+", Space City Home Network
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium921/mono.m3u8
 
-#EXTINF:-1 tvg-id="sportsnet pittsburgh" tvg-name="SportsNet Pittsburgh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsnet-pittsburgh-us.png" group-title="🇺🇸 美国+", SportsNet Pittsburgh
+#EXTINF:-1 tvg-id="sportsnet pittsburgh" tvg-name="SportsNet Pittsburgh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsnet-pittsburgh-us.png?raw=true" group-title="🇺🇸 美国+", SportsNet Pittsburgh
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.newkso.ru/nfs/premium922/mono.m3u8
 
-#EXTINF:-1 tvg-id="tv3 max denmark" tvg-name="TV3 Max Denmark" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/denmark/tv3-max-dk.png" group-title="🇩🇰丹麦体育+", TV3 Max Denmark
+#EXTINF:-1 tvg-id="tv3 max denmark" tvg-name="TV3 Max Denmark" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/denmark/tv3-max-dk.png?raw=true" group-title="🇩🇰丹麦体育+", TV3 Max Denmark
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium223/mono.m3u8
 
-#EXTINF:-1 tvg-id="vodafone sport" tvg-name="Vodafone Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/iceland/vodafone-sport-is.png" group-title="🇬🇧英格兰+", Vodafone Sport
+#EXTINF:-1 tvg-id="vodafone sport" tvg-name="Vodafone Sport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/iceland/vodafone-sport-is.png?raw=true" group-title="🇬🇧英格兰+", Vodafone Sport
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium260/mono.m3u8
 
-#EXTINF:-1 tvg-id="v sport motor sweden" tvg-name="V Sport Motor Sweden" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/sweden/v-sport-motor-se.png" group-title="🇸🇪瑞典体育+", V Sport Motor Sweden
+#EXTINF:-1 tvg-id="v sport motor sweden" tvg-name="V Sport Motor Sweden" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/sweden/v-sport-motor-se.png?raw=true" group-title="🇸🇪瑞典体育+", V Sport Motor Sweden
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium272/mono.m3u8
 
-#EXTINF:-1 tvg-id="ytv ca" tvg-name="YTV CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ytv-ca.png" group-title="🇨🇦加拿大+", YTV CA
+#EXTINF:-1 tvg-id="ytv ca" tvg-name="YTV CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ytv-ca.png?raw=true" group-title="🇨🇦加拿大+", YTV CA
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
