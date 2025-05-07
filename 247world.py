@@ -1987,7 +1987,7 @@ STATIC_CATEGORIES = {
     "gol play spain": "🇪🇸西班牙体育+",
     "golf channel usa": "🇺🇸美国体育+",
     "game show network": "🇺🇸 美国+",
-    "gol mundial 1": "Other",
+    "gol mundial 1": "🇺🇸 美国+",
     "gold uk": "🇬🇧英格兰+",
     "galavisi贸n usa": "🇺🇸 美国+",
     "galavisión usa": "🇺🇸 美国+",
