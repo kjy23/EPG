@@ -5,6 +5,7 @@ import xml.etree.ElementTree as ET
 epg_urls = [
     "https://raw.githubusercontent.com/kjy23/EPG/refs/heads/master/epgs/daddylive-channels-epg.xml",
     "https://epg.iill.top/epg",
+    "https://epg.112114.xyz/pp.xml",
     "https://tvpass.org/epg.xml",
     "https://assets.livednow.com/epg.xml",
     "https://xutv.486253.xyz/xumo/epg.xml",
