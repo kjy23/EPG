@@ -3227,18 +3227,14 @@ STATIC_CATEGORIES = {
 
 def fetch_with_debug(filename, url):
     try:
-        #print(f'Downloading {url}...') # Debug removed
         response = requests.get(url, timeout=10)
         response.raise_for_status()
 
         with open(filename, 'wb') as file:
             file.write(response.content)
 
-        #print(f'File {filename} downloaded successfully.') # Debug removed
     except requests.exceptions.RequestException as e:
-        #print(f'Error downloading {url}: {e}') # Debug removed
-        pass # No debug print, just skip
-
+        pass  # No debug print, just skip
 
 def search_category(channel_name):
     return STATIC_CATEGORIES.get(channel_name.lower().strip(), "Undefined")
@@ -3260,25 +3256,22 @@ def search_streams(file_path, keyword):
                 if match not in matches:
                     matches.append(match)
     except FileNotFoundError:
-        #print(f'The file {file_path} does not exist.') # Debug removed
-        pass # No debug print, just skip
+        pass  # No debug print, just skip
     return matches
 
 def search_logo(channel_name):
-    channel_name_lower = channel_name.lower().strip()
     for key, url in STATIC_LOGOS.items():
-        if key in channel_name_lower:
+        if key in channel_name.lower().strip():
             return url
     return "https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png"
 
 def search_tvg_id(channel_name):
-    channel_name_lower = channel_name.lower().strip()
     for key, tvg_id in STATIC_TVG_IDS.items():
-        if key in channel_name_lower:
+        if key in channel_name.lower().strip():
             return tvg_id
     return "unknown"
 
-import os  # Importa os per controllare se il file esiste
+import os
 
 def generate_m3u8_247(matches):  # Rinominata per evitare conflitti
     if not matches:
@@ -3286,13 +3279,12 @@ def generate_m3u8_247(matches):  # Rinominata per evitare conflitti
 
     processed_247_channels = 0  # Counter for 24/7 channels
     
-    # Controlla se il file esiste e se è vuoto
     file_exists = os.path.exists(M3U8_OUTPUT_FILE)
     file_empty = not file_exists or os.stat(M3U8_OUTPUT_FILE).st_size == 0
 
-    with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:  # Appende al file esistente
+    with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:
         if file_empty:
-            file.write("#EXTM3U\n")  # Aggiunge l'intestazione solo se il file è nuovo o vuoto
+            file.write("#EXTM3U\n")
 
         for channel in matches:
             channel_id = channel[0]
@@ -3305,7 +3297,9 @@ def generate_m3u8_247(matches):  # Rinominata per evitare conflitti
             stream_url_dynamic = get_stream_link(channel_id)
 
             if stream_url_dynamic:
-                file.write(f"#EXTINF:-1 tvg-id=\"{tvg_id}\" tvg-name=\"{channel_name}\" tvg-logo=\"{tvicon_path}\" group-title=\"{category}\", {channel_name}\n")
+                # 在输出 M3U 文件时，标准化频道名称
+                standardized_name = STATIC_TV_NAMES.get(channel_name.lower().strip(), channel_name)
+                file.write(f"#EXTINF:-1 tvg-id=\"{tvg_id}\" tvg-name=\"{channel_name}\" tvg-logo=\"{tvicon_path}\" group-title=\"{category}\", {standardized_name}\n")
                 file.write('#EXTVLCOPT:http-origin=https://kisskissplay.cfd\n')
                 file.write('#EXTVLCOPT:http-referrer=https://kisskissplay.cfd/\n')
                 file.write('#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1\n')
@@ -3314,30 +3308,24 @@ def generate_m3u8_247(matches):  # Rinominata per evitare conflitti
             else:
                 print(f"Failed to get stream URL for 24/7 channel ID: {channel_id}. Skipping M3U8 entry for this channel.")
 
-    return processed_247_channels  # Return count of processed 24/7 channels
+    return processed_247_channels
 
 # Inizio del codice principale
 
-# Inizializza contatore e genera ID univoci
 channelCount = 0
-total_247_channels = 0 # Counter for total 24/7 channels attempted
+total_247_channels = 0
 
-# Crea il nodo radice dell'EPG
 root = ET.Element('tv')
 
-# Verifica se sono stati creati canali validi
 if channelCount == 0:
-    print("Nessun canale valido trovato dalla programmazione. Genero solo i canali 24/7.") # Debug removed
-    pass # No debug print, just skip
+    pass
 else:
     tree = ET.ElementTree(root)
     tree.write(EPG_OUTPUT_FILE, encoding='utf-8', xml_declaration=True)
-    print(f"EPG generato con {channelCount} canali validi.") # Debug removed
-    pass # No debug print, just skip
 
 # Fetch e generazione M3U8 per i canali 24/7
 fetch_with_debug(daddyLiveChannelsFileName, daddyLiveChannelsURL)
-matches_247 = search_streams(daddyLiveChannelsFileName, "") # Cerca tutti i canali
+matches_247 = search_streams(daddyLiveChannelsFileName, "")
 total_247_channels = generate_m3u8_247(matches_247)
 
 print(f"Script completato. Canali 24/7 aggiunti: {total_247_channels}")
