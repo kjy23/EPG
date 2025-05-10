@@ -4,14 +4,12 @@ import xml.etree.ElementTree as ET
 # EPG 文件的 URL 列表
 epg_urls = [
     "https://raw.githubusercontent.com/kjy23/EPG/refs/heads/master/epgs/daddylive-channels-epg.xml",
-    "https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz",
-    "https://i.mjh.nz/PBS/all.xml.gz",
-    "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz",
-    "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz",
-    "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz",
-    "https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz",
-    "https://i.mjh.nz/Stirr/all.xml.gz",
+    "https://i.mjh.nz/PBS/all.xml",
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml",
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml",
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml",
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml",
+    "https://i.mjh.nz/Stirr/all.xml",
 ]
 
 # 合并后的 EPG 文件输出路径
