@@ -1,0 +1,35 @@
+name: Merge EPG Files
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # 每 12 小时运行一次（你可以根据需要修改）
+  workflow_dispatch:  # 允许手动触发工作流
+
+jobs:
+  merge-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3  # 检出仓库代码
+
+      - name: Set up Python
+        uses: actions/setup-python@v4  # 设置 Python 环境
+        with:
+          python-version: '3.x'  # 选择 Python 版本
+
+      - name: Install dependencies
+        run: |
+          pip install requests  # 安装 requests 库
+
+      - name: Run EPG merger
+        run: |
+          python merge_epg.py  # 运行合并 EPG 文件的脚本
+
+      - name: Commit and push merged EPG file
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add merged_epg.xml  # 假设合并后的文件名是 merged_epg.xml
+          git commit -m "Update merged EPG file"
+          git push  # 将合并后的文件推送回仓库
