@@ -5,7 +5,6 @@ import xml.etree.ElementTree as ET
 epg_urls = [
     "https://raw.githubusercontent.com/kjy23/EPG/refs/heads/master/epgs/daddylive-channels-epg.xml",
     "https://epg.iill.top/epg",
-    "https://epg.112114.xyz/pp.xml",
     "https://tvpass.org/epg.xml",
     "https://assets.livednow.com/epg.xml",
     "https://xutv.486253.xyz/xumo/epg.xml",
@@ -15,12 +14,12 @@ epg_urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz",
     "https://epg.djtmewibu.com/jcom.xml",
-    "https://i.mjh.nz/PBS/all.xml",
-    "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml",
-    "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml",
-    "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml",
-    "https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml",
-    "https://i.mjh.nz/Stirr/all.xml",
+    "https://i.mjh.nz/PBS/all.xml.gz",
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz",
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz",
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz",
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz",
+    "https://i.mjh.nz/Stirr/all.xml.gz",
     "https://github.com/dtankdempse/tubi-m3u/raw/refs/heads/main/tubi_epg_us.xml"
 ]
 
