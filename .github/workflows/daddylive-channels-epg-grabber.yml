@@ -23,7 +23,7 @@ jobs:
         run: pip install requests
 
       - name: Run epg grabber
-        run: cd daddylive && python daddylive-channels-epg-grabber.py
+        run: python daddylive-channels-epg-grabber.py  # 直接运行脚本
 
       - name: Commit and push changes
         run: |
