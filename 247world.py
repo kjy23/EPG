@@ -2426,7 +2426,7 @@ STATIC_CATEGORIES = {
     "18+ (player-18)": "XXX Adults",
     "18+ (player-19)": "XXX Adults",
     "18+ (player-20)": "XXX Adults",
-    "altitude sports": "🇨🇦加拿大+",
+    "altitude sports": "🇺🇸美国体育+",
     "azteca 7 mx": "🇲🇽墨西哥体育+",
     "a sport pk": "🇵🇰巴基斯坦体育+",
     "bein sports xtra 1": "🇺🇸美国体育+",
